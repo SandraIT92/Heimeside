@@ -1,0 +1,47 @@
+body {
+  background-color: #D4E6F1;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #grey;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  color: #grey;
+}
+
+p {
+  color: #grey;
+  text-align: center;
+}
+
+.tittel {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.undertittel {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.Bilde {
+  width: 400px;
+  border-radius: 45%;
+  border-color: #grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+margin-top: 40px;
+
+}
